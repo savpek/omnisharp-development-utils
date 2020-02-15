@@ -11,7 +11,7 @@
             "script": "${workspaceFolder}/RunVscode.ps1",
             "cwd": "${workspaceFolder}",
             "args": [
-                "-VscodeWorkspaceFolder ${workspaceFolder}",
+                "-VscodeWorkspaceFolder C:\\Github\\analyzer-test-project\\",
                 "-OmnisharpBinaryFolder C:\\Github\\omnisharp-roslyn\\bin\\Debug\\OmniSharp.Stdio.Driver\\net472\\"
             ]
         }
